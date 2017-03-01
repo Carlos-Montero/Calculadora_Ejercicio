@@ -39,7 +39,7 @@ public class Main {
                     Calculadora ca = new Calculadora(valor1,valor2);
                     System.out.println("El resultado es " + control.resta(ca));
                     break;
-                case 3:  //Multiplicacion
+                case 3:  //Multiplicación
                     System.out.println("Introduce valor");
                     int valorP = Integer.parseInt(buff.readLine());
                     System.out.println ("Introduce otro valor");
