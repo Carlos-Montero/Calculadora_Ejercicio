@@ -1,21 +1,21 @@
 /**
  * Created by Carlos on 01/03/2017.
  */
-public class Controller {
+/*public class Controller {
 
-    public int suma(Calculadora c){
-        return c.getValorA()+c.getValorB();
+    public double suma(){
+        return 100;
     }
-    public int resta(Calculadora c){
-        return c.getValorA()-c.getValorB();
+    public double resta(){
+        return 100;
     }
-    public int multiplicacion(Calculadora c){
-        return c.getValorA()*c.getValorB();
+    public double multiplicacion(){
+        return 100;
     }
-    public int division(Calculadora c){
-        return c.getValorA()/c.getValorB();
+    public double division(){
+        return 100;
     }
 }
 
-
+*/
 
